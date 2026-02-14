@@ -106,3 +106,6 @@ footer {
 
 </body>
 </html>
+git add .
+git commit -m "site parbrize"
+git push
