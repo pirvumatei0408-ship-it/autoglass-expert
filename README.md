@@ -19,7 +19,7 @@ header {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 38px;
   margin-bottom: 10px;
 }
 
@@ -91,21 +91,12 @@ footer {
 
     <a href="tel:0724506187" class="btn">📞 Sună acum</a>
     <a href="https://wa.me/40724506187" class="btn">💬 WhatsApp</a>
+    <a href="https://www.google.com/maps/search/?api=1&query=Bariera+Valcii+182+Craiova" 
+       target="_blank" class="btn">🗺️ Vezi locația pe Google Maps</a>
   </div>
 
   <div class="card">
     <h2>⭐ De ce să ne alegi?</h2>
     <p>✔️ Montaj rapid</p>
     <p>✔️ Preț corect</p>
-    <p>✔️ Garanție lucrare</p>
-    <p>✔️ Programare rapidă la telefon</p>
-  </div>
-
-</div>
-
-<footer>
-  © 2026 Service Parbrize Craiova | Toate drepturile rezervate
-</footer>
-
-</body>
-</html>
+    <p>✔️ Garanție lucrare
